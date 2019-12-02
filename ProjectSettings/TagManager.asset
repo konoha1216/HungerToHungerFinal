@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dark Green Dot
+  - Green Dot
+  - Indigo Dot
+  - Orange Dot
+  - Red Dot
+  - Salmon Dot
+  - Teal Dot
+  - Yellow Dot
+  - Color
+  - Breakable
+  - Holly0
+  - Holly1
+  - Holly2
+  - Holly3
+  - Holly4
+  - Board
+  - China0
+  - China1
+  - China2
+  - hambuger
+  - Donat
+  - cola
+  - fries
+  - Ice Cream
+  - China3
+  - China4
+  - Japan2
+  - Japan3
+  - Japan1
+  - Japan4
+  - Japan5
+  - X1
+  - X2
+  - X3
+  - X4
+  - X5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

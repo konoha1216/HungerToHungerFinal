@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6245c3a2e2d649cc8b518a275405921, type: 3}
+  m_Name: Level 3
+  m_EditorClassIdentifier: 
+  width: 9
+  height: 9
+  boardLayout:
+  - x: 4
+    y: 0
+    tileKind: 1
+  - x: 4
+    y: 1
+    tileKind: 1
+  - x: 4
+    y: 2
+    tileKind: 1
+  - x: 4
+    y: 3
+    tileKind: 1
+  - x: 4
+    y: 4
+    tileKind: 1
+  - x: 4
+    y: 5
+    tileKind: 1
+  - x: 4
+    y: 6
+    tileKind: 1
+  - x: 4
+    y: 7
+    tileKind: 1
+  - x: 4
+    y: 8
+    tileKind: 1
+  - x: 0
+    y: 4
+    tileKind: 1
+  - x: 1
+    y: 4
+    tileKind: 1
+  - x: 2
+    y: 4
+    tileKind: 1
+  - x: 3
+    y: 4
+    tileKind: 1
+  - x: 5
+    y: 4
+    tileKind: 1
+  - x: 6
+    y: 4
+    tileKind: 1
+  - x: 7
+    y: 4
+    tileKind: 1
+  - x: 8
+    y: 4
+    tileKind: 1
+  dots:
+  - {fileID: 8175320111170816904, guid: f20e0b5102e8c4b5a9dae5a30e58c30c, type: 3}
+  - {fileID: 8134179859785474724, guid: 3f89c8662511144c68c9a43e3c9a59b2, type: 3}
+  - {fileID: 6023793844393156887, guid: 106857e4a01c649148f66969a3520cd1, type: 3}
+  - {fileID: 2216773086991706613, guid: 802365e8ba5744689abe90aab1d83ca2, type: 3}
+  - {fileID: 8459097334236254563, guid: 04a0d8097b2ec4697aec8cd24e8b5ff5, type: 3}
+  scoreGoals: e8030000d0070000c4090000
+  aspectRatio: 0.47
+  padding: 0
+  yOffset: 2
+  endGameRequirements:
+    gameType: 0
+    counterValue: 30
+  levelGoals:
+  - numberNeeded: 20
+    numberCollected: 0
+    goalSprite: {fileID: 21300000, guid: fd83a76fbce1440ae82e82b805cee918, type: 3}
+    matchValue: Japan2
+  - numberNeeded: 20
+    numberCollected: 0
+    goalSprite: {fileID: 21300000, guid: bc30c8ff7debb4537b6ae0b3e72ab109, type: 3}
+    matchValue: Japan5

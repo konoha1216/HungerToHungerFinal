@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6245c3a2e2d649cc8b518a275405921, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  width: 8
+  height: 8
+  boardLayout:
+  - x: 3
+    y: 3
+    tileKind: 1
+  - x: 3
+    y: 4
+    tileKind: 1
+  - x: 3
+    y: 5
+    tileKind: 1
+  - x: 4
+    y: 3
+    tileKind: 1
+  - x: 4
+    y: 4
+    tileKind: 1
+  - x: 4
+    y: 5
+    tileKind: 1
+  dots:
+  - {fileID: 9180711333397817309, guid: 7187a9e10d798453fb4edca62acd358d, type: 3}
+  - {fileID: 7930051034763039276, guid: 4fa388f0219fe4fedaa18d8cfb24c589, type: 3}
+  - {fileID: 2002217775321967343, guid: fa13cd18063554fa298bad8932215189, type: 3}
+  - {fileID: 5305070111885681020, guid: 2414af44111c84ea1ad3460704682a6a, type: 3}
+  - {fileID: 5868926241863305056, guid: 575bc8ce620be432d83b9bca8786f9e7, type: 3}
+  scoreGoals: bc020000dc050000dc050000
+  aspectRatio: 0.55
+  padding: 0
+  yOffset: 1.8
+  endGameRequirements:
+    gameType: 0
+    counterValue: 20
+  levelGoals:
+  - numberNeeded: 8
+    numberCollected: 15
+    goalSprite: {fileID: 21300000, guid: bc4c1925b821d400c8c59548c2597798, type: 3}
+    matchValue: China0
+  - numberNeeded: 8
+    numberCollected: 9
+    goalSprite: {fileID: 21300000, guid: b241f07faabf2467fa55138a9e69eed7, type: 3}
+    matchValue: China1
+  - numberNeeded: 8
+    numberCollected: 9
+    goalSprite: {fileID: 21300000, guid: 911990689370842bbaf14e5ce94afe87, type: 3}
+    matchValue: China2
